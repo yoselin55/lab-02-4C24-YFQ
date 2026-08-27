@@ -1,6 +1,6 @@
 # lab-02-4C24-2024-YFQ 
  
-Descripcion breve del proyecto 
+Control de verciones github 
  
 ## Getting Started 
  
